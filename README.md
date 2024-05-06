@@ -1,7 +1,5 @@
 # MLOps_template
 
-
-
 A template of the MLOps_project.
 
 Project Organization
